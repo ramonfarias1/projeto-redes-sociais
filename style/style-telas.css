@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+html, body {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+body {
+    background-color: black;
+}
+
+img {
+    width: 100vw;
+}
+
+a {
+    display: block;
+    font: bold 1em Arial, Helvetica, sans-serif;
+    background-color: darkred;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    padding: 20px;
+    margin-top: -4px;
+}
+
+a:hover {
+    background-color: red;
+}
+
+a:active {
+    text-decoration: underline;
+}
