@@ -6,7 +6,7 @@
 
 Projeto criado no módulo 4 do curso de HTML5 e CSS3 do Curso em Vídeo, ministrado pelo professor Gustavo Guanabara.
 
-Simula a navegação nas redes sociais dentro de um celular, com um botão para acessar a própria rede social no final da rolagem. Pode ser usado pra divulgação das suas redes sociais ou até mesmo no seu portfólio, vai depender da sua criatividade.
+Simula a navegação nas redes sociais dentro de um celular, com um botão para acessar a própria rede social no final da imagem ao rolar com o botão do meio do mouse para baixo. Pode ser usado pra divulgação das suas redes sociais ou até mesmo no seu portfólio, vai depender da sua criatividade.
 
 [Clique aqui para acessar o site do projeto](https://ramonfarias1.github.io/projeto-redes-sociais/)
 
